@@ -1,0 +1,6 @@
+*Requerimientos*
+Esta tarjeta personalizada esta basada en un arduino pro micro, por lo cual solo fue testeada para dicho microcontrolador y no se asegura la compatibilidad con otros
+
+** Como Instalar **
+Copiar el archivo booleMicro.json al directorio (en windows) %HOMEPATH%\.platformio\boards y reiniciar el platformio.
+En unix la ruta es ~/.platformio/boards
