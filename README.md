@@ -1,4 +1,4 @@
-# Boole control volume #
+#Boole control volume#
 Control de Volumen USB con Arduino Pro Micro
 Este proyecto utiliza un Arduino Pro Micro para crear un dispositivo de control de volumen USB. El Arduino Pro Micro actúa como un dispositivo HID (Human Interface Device) y se comunica con la PC para ajustar el volumen de manera dinámica.
 
